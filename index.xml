@@ -27,7 +27,7 @@ While I&amp;rsquo;m very fortunate that my career and interests align, I&amp;rsq
       
       <guid>https://www.vangorden.dev/contact/</guid>
       <description>Connect with me at:
- GitHub LinkedIn  Or email me at:   var userName = &#34;noah&#34;; var hostName = &#34;vangorden.dev&#34;; var linkText = userName + &#34;@&#34; + hostName ; document.write(&#34;&#34; + linkText + &#34;&#34;);  </description>
+ GitHub   Or email me at:   var userName = &#34;noah&#34;; var hostName = &#34;vangorden.dev&#34;; var linkText = userName + &#34;@&#34; + hostName ; document.write(&#34;&#34; + linkText + &#34;&#34;);  </description>
     </item>
     
   </channel>
